@@ -1,5 +1,5 @@
-,address,destination
-Bius,1077 Budapest Wesselényi utca 58.,Shooting
-Zoli,1072 Budapest Akácfa utca 4.,Shooting
-Peti,1155 Budapest Perczel Mór utca 13.,Shooting
-Nori,1142 Budapest Szőnyi út 2.,Shooting
+name,address,destination,mailto
+Bius,1077 Budapest Wesselényi utca 58.,Shooting,mor.kapronczay@gmail.com
+Zoli,1072 Budapest Akácfa utca 4.,Dressing,mor.kapronczay@gmail.com
+Peti,1155 Budapest Perczel Mór utca 13.,Shooting,mor.kapronczay@gmail.com
+Nori,1142 Budapest Szőnyi út 2.,Dressing,mor.kapronczay@gmail.com
